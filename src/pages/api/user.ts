@@ -7,7 +7,7 @@ let userData = {
   bio: 'Yap Biology',
   post: [
     {
-      title: "!st Post",
+      title: "1st Post",
       content: "This is my first post"
     },
     {
